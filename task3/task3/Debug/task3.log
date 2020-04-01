@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(5): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(7): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(8): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(10): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(11): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(12): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task3\task3\task3 platforma\main.cpp(13): warning C4305: "argument": obcięcie z "double" do "float"
+  Źródło.cpp
+  Generowanie kodu...
+  task3.vcxproj -> C:\Users\agatak\source\repos\task3\Debug\task3.exe

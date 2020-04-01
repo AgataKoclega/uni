@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\agatak\source\repos\task4\task4\nagłówek.h(56): warning C4305: "*=": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task4\task4\nagłówek.h(69): warning C4305: "*=": obcięcie z "double" do "float"
+c:\users\agatak\source\repos\task4\task4\main.cpp(7): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  task4.vcxproj -> C:\Users\agatak\source\repos\task4\Debug\task4.exe
